@@ -12,6 +12,7 @@ const App = () => {
         <Audio />
         <Main />
       </div>
+      <Footer />
     </div>
   );
 };

@@ -8,8 +8,11 @@ export const Footer = () => {
       <p class="footer-company-motto">Carter Wanger</p>
 
       <p class="footer-links">
-        <a href="#">Portfolio Site</a> - <a href="#">GitHub</a> -{" "}
-        <a href="#">Linkedin</a>
+        <a href="#">Portfolio Site</a> -{" "}
+        <a href="https://github.com/cjwagn1">GitHub</a> -{" "}
+        <a href="https://www.linkedin.com/in/carter-wagner-834ab016a/">
+          Linkedin
+        </a>
       </p>
     </footer>
   );
