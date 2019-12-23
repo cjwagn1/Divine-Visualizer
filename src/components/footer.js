@@ -5,7 +5,7 @@ import "../css/footer.css";
 export const Footer = () => {
   return (
     <footer class="footer-basic-centered">
-      <p class="footer-company-motto">Carter Wanger</p>
+      <p class="footer-company-motto">Carter Wagner</p>
 
       <p class="footer-links">
         <a href="#">Portfolio Site</a> -{" "}

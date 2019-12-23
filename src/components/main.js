@@ -60,7 +60,7 @@ export const Main = () => {
 
           ctx.fillStyle = "rgb(" + r + "," + g + "," + b + ")";
 
-          ctx.fillRect(x, barHeight * 2, (barWidth * 1) / 2, barHeight);
+          ctx.fillRect(x, barHeight * 2.3, (barWidth * 1) / 2, barHeight);
 
           x += barWidth + 1;
         }
